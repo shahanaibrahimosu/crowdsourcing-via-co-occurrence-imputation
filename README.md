@@ -1,1 +1,1 @@
-# crowdsourcing-via-co-occurrence-imputation-
+# crowdsourcing-via-co-occurrence-imputation
